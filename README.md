@@ -1,4 +1,4 @@
-# ♟📊Chess Prognosticator 📈♟
+# ♟📊Chess Prognosticator - ***Checkmate Reimagined*** 📈♟
 ***
 
 ### **TEAM MEMBERS:**
@@ -55,6 +55,7 @@ We approached this problem using 2 approaches. One is through Labelling and othe
 Find chess board positions from pixel values of transformed centers of bottom line of their bounding boxes and store them in dictionary
 - Converting to FEN:
   - Convert dictionary to FEN
+<img src="images/Labelling Approach.png"/>
 
 ***
 #### **Approach 2 : Minimum Distance Square Assignment**
@@ -70,8 +71,10 @@ Find chess board positions from pixel values of transformed centers of bottom li
   - Store nearest cell’s position in dictionary
 - Converting to FEN:
   - Convert dictionary to FEN
+<img src="images/Min Distance Approach.png"/>
 
  #### We finally sent this FEN representation to the Stockfish Chess Engine to perform the analysis and give back the results & suggestions.
+ 
 ***
 ### **REFERENCES:**
 ***
