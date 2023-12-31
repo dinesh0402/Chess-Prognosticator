@@ -25,11 +25,6 @@ streamlit-image-coordinates==0.1.6
 streamlit-keyup==0.2.0
 streamlit-toggle-switch==1.0.2
 streamlit-vertical-slider==1.0.2
-tensorboard==2.11.0
-tensorboard-data-server==0.6.1
-tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
-tensorflow-estimator==2.11.0
 torch==1.8.1
 torchaudio==0.8.1
 torchvision==0.9.1
