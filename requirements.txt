@@ -15,10 +15,6 @@ plotly==5.6.0
 protobuf==3.20.1
 pytesseract==0.3.10
 pytest==7.1.1
-scikeras==0.10.0
-scikit-learn-intelex==2021.20220215.102710
-scipy==1.11.3
-st-annotated-text==4.0.1
 stockfish==3.28.0
 streamlit==1.23.1
 streamlit-camera-input-live==0.2.0
